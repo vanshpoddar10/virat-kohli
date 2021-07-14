@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 30px
+}
+
+.achievements {
+    font-size: 15px;
+}
+.line{
+    width: 100px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
